@@ -1,4 +1,5 @@
 # [UNRELEASED]
+- Modified Pouch order in creative inventory
 - `PouchRecipeUnlocking` is called when crafting now
 
 # 21.4.1 - Pouch Drop
