@@ -1,4 +1,8 @@
 # [UNRELEASED]
+- Added Goblins
+ - SFX
+ - AI
+ - Model
 - Alternate pouch recipes are supported
 - A regular pouch is craftable now from any other pouch varient
 - Changed Website URL to the Gamebanana page
