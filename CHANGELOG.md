@@ -1,4 +1,5 @@
 # [UNRELEASED]
+- Changed Website URL to the Gamebanana page
 - Modified Pouch order in creative inventory
 - `PouchRecipeUnlocking` is called when crafting now
 
